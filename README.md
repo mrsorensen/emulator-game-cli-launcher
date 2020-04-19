@@ -6,4 +6,5 @@ Generates a list of all your emulator games and lets you pick which one to launc
 
 ## How to use
 Edit the path/to/your/games in the script. Example:  `PATH = '~/PSX'`
+
 Run `python ~/emulator-game-cli-launcher/emulauncher.py` in your favourite terminal
